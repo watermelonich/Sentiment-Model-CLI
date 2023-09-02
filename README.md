@@ -1,8 +1,8 @@
-# Quantum Sentiment Analysis Model
+# Sentiment Analysis Model
 
 **Note: This project is a work in progress and is not yet optimized or complete.**
 
-Explore the fascinating intersection of quantum computing and natural language processing with this Quantum Sentiment Analysis Model. This project aims to perform sentiment analysis on text data using quantum circuits and classical NLP techniques. Discover the potential of quantum computing in the realm of understanding human emotions in text.
+This project aims to perform sentiment analysis on text data using quantum circuits and classical NLP techniques. Discover the potential of quantum computing in the realm of understanding human emotions in text.
 
 ## Table of Contents
 

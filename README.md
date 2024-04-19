@@ -1,4 +1,4 @@
-# Sentiment Analysis Model
+# Sentiment Analysis Model CLI
 
 **Note: This project is a work in progress and is not yet optimized or complete.**
 
